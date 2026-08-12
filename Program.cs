@@ -19,6 +19,7 @@ partial class Program{                     //clase principal, contenedor de todo
         //Generics();
         //claseGenerica();
         //Conditionals();
-        loops();
+        //loops();
+        FizzBuzz();
     }
 }
