@@ -6,6 +6,7 @@ using System;                              //importar bibliotecas
 partial class Program{                     //clase principal, contenedor de todo el codigo:
     static void Main(string[] args)        //metodo main, entrada del programa,lo que lee el run
     {
+        #region sección 2
         //SalesReport();
         //diasVividos();
         //calcularDiasProximoCumple();
@@ -18,8 +19,22 @@ partial class Program{                     //clase principal, contenedor de todo
         //DataStructures();
         //Generics();
         //claseGenerica();
+        #endregion
+
+        #region sección 3
         //Conditionals();
         //loops();
-        FizzBuzz();
+        //FizzBuzz();
+        //LoopControl();
+        //LoopGame();
+        //Conversions();
+        //ConvertionToDateTime();
+        //Functions();
+        //printTablaMultiplicar(multiplciador: 4, limite: 15); //puede ir en desorden si se define variable.
+        //PrintFactorialTable(5);
+        //PrintFactorialTableClase(5);
+        //Tuples();
+        FuncionesAnonimas();
+        #endregion
     }
 }
