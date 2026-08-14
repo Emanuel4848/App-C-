@@ -42,7 +42,8 @@ partial class Program{                     //clase principal, contenedor de todo
         //GC.Collect();
         //Ejecuten los finalizadores
         //GC.WaitForPendingFinalizers();
-        ProductSaleDemo();
+        //ProductSaleDemo();
+        ProductSalesDemo2();
 
 
         #endregion
