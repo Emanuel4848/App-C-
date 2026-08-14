@@ -34,7 +34,17 @@ partial class Program{                     //clase principal, contenedor de todo
         //PrintFactorialTable(5);
         //PrintFactorialTableClase(5);
         //Tuples();
-        FuncionesAnonimas();
+        //FuncionesAnonimas();
+        //Classes();
+        //Properties();
+        //Metodos();
+        //Forzar recolección de basura:
+        //GC.Collect();
+        //Ejecuten los finalizadores
+        //GC.WaitForPendingFinalizers();
+        ProductSaleDemo();
+
+
         #endregion
     }
 }
