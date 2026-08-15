@@ -43,7 +43,10 @@ partial class Program{                     //clase principal, contenedor de todo
         //Ejecuten los finalizadores
         //GC.WaitForPendingFinalizers();
         //ProductSaleDemo();
-        ProductSalesDemo2();
+        //ProductSalesDemo2();
+        //herencia();
+        //ClasesAbstractas();
+        Visibility();
 
 
         #endregion
