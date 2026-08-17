@@ -13,12 +13,29 @@ partial class Program
         
         Sith sith = new Sith();
         sith.VerProtegidso();
+
+        sith.NivelPoder = 40;
+        sith.ColorLaser = "Verde";
+
+        sith.UsarFuerza();
         
 
     }
 }
+//contrato: Cualquiera que quiera usar la fuerza, debe tener estas 2 Propiedades y metodo.
+interface IUsarFuerza
+{
+    //Cualquiera que quiera usar la fuerza, debe tener estas 2 Propiedades.
+    int NivelPoder {get; set;}
+    string? ColorLaser {get; set;}
 
-class Jedi
+    void UsarFuerza();
+}
+
+
+
+
+class Jedi: IUsarFuerza
 {
     public string CampoPublico = "Soy un Jedi y mi poder es conocido";
     
@@ -55,11 +72,18 @@ class Jedi
     }
 }
 
-class Sith: Jedi
+class Sith: Jedi, IUsarFuerza
 {
+
+    public new void UsarFuerza()
+    {
+        WriteLine($"Soy un Sith con un sable de luz {ColorLaser} y mi nivel de poder es {NivelPoder}");
+    }
+
     public void VerProtegidso()
     {
         WriteLine(CampoProtegido);
         Entrenamiento();
     }
 }
+
