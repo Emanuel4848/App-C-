@@ -47,7 +47,9 @@ partial class Program{                     //clase principal, contenedor de todo
         //herencia();
         //ClasesAbstractas();
         //Visibility();
-        ShowEmployeesInformation();
+        //ShowEmployeesInformation();
+        ManejandoException();
+ 
 
 
         #endregion
