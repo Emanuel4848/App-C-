@@ -48,7 +48,9 @@ partial class Program{                     //clase principal, contenedor de todo
         //ClasesAbstractas();
         //Visibility();
         //ShowEmployeesInformation();
-        ManejandoException();
+        //ManejandoException();
+        //Linq();
+        AdvancedLinq.Program.AdvancedLINQ();
  
 
 
