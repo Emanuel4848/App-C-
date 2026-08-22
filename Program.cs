@@ -50,8 +50,13 @@ partial class Program{                     //clase principal, contenedor de todo
         //ShowEmployeesInformation();
         //ManejandoException();
         //Linq();
-        AdvancedLinq.Program.AdvancedLINQ();
- 
+        //AdvancedLinq.Program.AdvancedLINQ();
+        //SalesAnalysis();
+        //FileExample();
+        //DirectoryExample();
+        //PathExample();
+        //WriteFileExample();
+        ManageJsonFile.Program.ManageJsonFile();
 
 
         #endregion

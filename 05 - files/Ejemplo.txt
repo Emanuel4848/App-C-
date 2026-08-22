@@ -1,0 +1,2 @@
+Hola mundo desde Ejmplo.txt
+Esta es una nueva linea
