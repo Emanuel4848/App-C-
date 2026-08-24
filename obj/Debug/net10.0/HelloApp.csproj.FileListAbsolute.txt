@@ -13,3 +13,6 @@ C:\Users\Pc\Desktop\Development\Udemy\Cursos Udemy\C# Empieza tu camino en el le
 C:\Users\Pc\Desktop\Development\Udemy\Cursos Udemy\C# Empieza tu camino en el lenguaje\Codigo\seccion 2 Sintaxis basica variables y tipos de datos\HelloApp\obj\Debug\net10.0\HelloApp.genruntimeconfig.cache
 C:\Users\Pc\Desktop\Development\Udemy\Cursos Udemy\C# Empieza tu camino en el lenguaje\Codigo\seccion 2 Sintaxis basica variables y tipos de datos\HelloApp\obj\Debug\net10.0\ref\HelloApp.dll
 C:\Users\Pc\Desktop\Development\Udemy\Cursos Udemy\C# Empieza tu camino en el lenguaje\Codigo\seccion 2 Sintaxis basica variables y tipos de datos\HelloApp\obj\Debug\net10.0\HelloApp.sourcelink.json
+C:\Users\Pc\Desktop\Development\Udemy\Cursos Udemy\C# Empieza tu camino en el lenguaje\Codigo\seccion 2 Sintaxis basica variables y tipos de datos\HelloApp\bin\Debug\net10.0\BetterConsoleTables.dll
+C:\Users\Pc\Desktop\Development\Udemy\Cursos Udemy\C# Empieza tu camino en el lenguaje\Codigo\seccion 2 Sintaxis basica variables y tipos de datos\HelloApp\obj\Debug\net10.0\HelloApp.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Development\Udemy\Cursos Udemy\C# Empieza tu camino en el lenguaje\Codigo\seccion 2 Sintaxis basica variables y tipos de datos\HelloApp\obj\Debug\net10.0\HelloApp.csproj.Up2Date

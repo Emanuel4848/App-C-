@@ -56,7 +56,8 @@ partial class Program{                     //clase principal, contenedor de todo
         //DirectoryExample();
         //PathExample();
         //WriteFileExample();
-        ManageJsonFile.Program.ManageJsonFile();
+        //ManageJsonFile.Program.ManageJsonFile();
+        TaskMaster.Program.TaskMaster();
 
 
         #endregion
